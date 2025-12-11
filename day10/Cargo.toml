@@ -1,0 +1,7 @@
+[package]
+name = "day10"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+microlp = "0.2.11"
